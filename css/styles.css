@@ -1,0 +1,33 @@
+.card-body img {
+    width: 30px;
+}
+.showcase-section {
+    background-image: url(../img/football.jpg);
+    height: 70vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.showcase-section .write-up {
+    max-width: 50%;
+    padding-top: 80px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+.showcase-section .write-up h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.showcase-section .write-up p {
+    text-align: center;
+    font-size: 25px;
+}
+
+.card-utilities span {
+    border-top: 2px solid rgb(255, 208, 0);
+    font-size: 30px;
+}
